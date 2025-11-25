@@ -220,16 +220,6 @@
 
 ---
 
-## 💭 Inspirational Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_color=00D9FF)
-
-</div>
-
----
-
 ## 🎨 Skills Visualization
 
 <div align="center">
@@ -251,16 +241,6 @@
 ![Git](https://img.shields.io/badge/Git-Advanced-orange?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Expert-blue?style=flat-square&logo=visual-studio-code)
 ![MySQL](https://img.shields.io/badge/MySQL-Advanced-blue?style=flat-square&logo=mysql)
-
-</div>
-
----
-
-<div align="center">
-  
-## 💡 Random Developer Wisdom
-
-![Jokes](https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=00D9FF)
 
 </div>
 
