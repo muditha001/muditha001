@@ -2,15 +2,16 @@ name: Update Recent Activity
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
+    - cron: "*/30 * * * *" # Runs every 30 minutes
+  workflow_dispatch: # Allows manual button click
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
     permissions:
       contents: write
-    
+
     steps:
       - uses: actions/checkout@v4
       
@@ -18,4 +19,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          CONFIG_FILE: '.github/recent-activity.config.yml'
+          # We are putting settings HERE instead of a separate file
+          readme_file: './README.md'
+          COMMIT_MSG: '⚡ Update recent activity'
+          MAX_LINES: 5
+          DISABLED_EVENTS: '["comments"]'
