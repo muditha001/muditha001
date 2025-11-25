@@ -5,12 +5,12 @@
 
 </div>
 
-<!-- Animated Typing SVG - DYNAMIC -->
+<!-- Animated Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=80&lines=Welcome+to+my+Digital+Space!+%F0%9F%91%8B;Turning+Data+into+Actionable+Insights+%F0%9F%93%8A;Building+Tomorrow's+AI+Solutions+Today+%F0%9F%A4%96;BSc+(Hons)+IT+%7C+Data+Science+%40+SLIIT+%F0%9F%8E%93;Colombo%2C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing Animation" />
 </p>
 
-<!-- Profile Counter & Badges - DYNAMIC -->
+<!-- Profile Counter & Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muditha001&label=Profile%20Views&color=blueviolet&style=for-the-badge&base=0" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/muditha001?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
@@ -104,25 +104,19 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
-  
-<a href="https://github.com/muditha001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muditha001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-</a>
 
-<a href="https://github.com/muditha001">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muditha001&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF"/>
-</a>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muditha001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=muditha001&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E" />
 
 </div>
 
 <div align="center">
-  
-<a href="https://github.com/muditha001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditha001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</a>
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muditha001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
@@ -131,8 +125,8 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muditha001&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=7B2FF7&point=FF6D00&area_color=00D9FF&title_color=00D9FF&area=true&hide_border=true)](https://github.com/muditha001)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muditha001&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=7B2FF7&point=FF6D00&area_color=00D9FF&title_color=00D9FF&area=true&hide_border=true)
 
 </div>
 
@@ -141,8 +135,8 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=muditha001&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&title_color=00D9FF&text_color=FFFFFF&icon_color=7B2FF7)](https://github.com/muditha001)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=muditha001&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&title_color=00D9FF&text_color=FFFFFF&icon_color=7B2FF7)
 
 </div>
 
@@ -154,7 +148,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muditha001/muditha001/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muditha001/muditha001/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation eating contributions" src="https://raw.githubusercontent.com/muditha001/muditha001/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/muditha001/muditha001/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
@@ -162,8 +156,9 @@
 
 ## 📈 Recent GitHub Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
@@ -171,13 +166,13 @@
 
 <div align="center">
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muditha001&theme=tokyonight)](https://github.com/muditha001)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muditha001&theme=tokyonight)
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muditha001&theme=tokyonight)](https://github.com/muditha001)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muditha001&theme=tokyonight)](https://github.com/muditha001)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muditha001&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muditha001&theme=tokyonight)
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muditha001&theme=tokyonight)](https://github.com/muditha001)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muditha001&theme=tokyonight)](https://github.com/muditha001)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muditha001&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muditha001&theme=tokyonight)
 
 </div>
 
@@ -252,8 +247,8 @@
 ## 💭 Inspirational Quote
 
 <div align="center">
-  
-[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_color=00D9FF)](https://github.com/muditha001)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_color=00D9FF)
 
 </div>
 
@@ -289,7 +284,7 @@
   
 ## 💡 Random Developer Wisdom
 
-[![](https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=00D9FF)](https://github.com/muditha001)
+![Jokes](https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=00D9FF)
 
 </div>
 
