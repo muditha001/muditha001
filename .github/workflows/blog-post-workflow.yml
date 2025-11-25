@@ -2,7 +2,7 @@ name: Latest Blog Posts
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,11 +10,15 @@ jobs:
     name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
       
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@yourusername"
+          # Replace with your actual blog RSS feed URL
+          feed_list: "https://dev.to/feed/yourusername"
           max_post_count: 5
           commit_message: "Updated with latest blog posts"
           committer_username: "muditha001"
+          committer_email: "action@github.com"
