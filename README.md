@@ -1,4 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/23745711/README.2.md)
 <div align="center">
 
 <!-- Animated Header -->
@@ -24,7 +23,7 @@
 
 ---
 
-<!-- 3D Contribution Calendar (Auto-updates daily at 6 PM UTC) -->
+<!-- 3D Contribution Calendar -->
 <div align="center">
 
 ## 🌟 3D CONTRIBUTION CALENDAR
@@ -153,7 +152,7 @@ BSc (Hons) IT
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<!-- Dynamic GitHub Stats (Real-time updates) -->
+<!-- Dynamic GitHub Stats -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GITHUB STATS
@@ -170,12 +169,12 @@ BSc (Hons) IT
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=it24102732&theme=radical" alt="Summary Stats" />
 </div>
 
-<!-- Dynamic Activity Graph (Real-time updates) -->
+<!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=it24102732&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph&area_color=00d9ff" width="98%" alt="Activity Graph"/>
 </div>
 
-<!-- Dynamic Trophy (Real-time updates) -->
+<!-- Trophy -->
 <div align="center">
   
 ### 🏆 GitHub Trophies
@@ -188,7 +187,7 @@ BSc (Hons) IT
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Dynamic Detailed Analytics (Real-time updates) -->
+<!-- Detailed Analytics -->
 <div align="center">
 
 ## 📊 DETAILED ANALYTICS
@@ -209,7 +208,7 @@ BSc (Hons) IT
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<!-- Dynamic Snake Animation (Auto-updates every 12 hours) -->
+<!-- Snake Animation - FIXED -->
 <div align="center">
 
 ## 🐍 CONTRIBUTION SNAKE
@@ -299,12 +298,17 @@ BSc (Hons) IT
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Dynamic Recent Activity (Auto-updates hourly) -->
+<!-- Recent Activity - FIXED -->
 <div align="center">
 
 ## ⚡ RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
+1. 🎉 Created repository [it24102732/it24102732](https://github.com/it24102732/it24102732)
+2. 📝 Updated README.md
+3. 🔧 Set up GitHub Actions workflows
+4. 🌱 Started learning Data Science
+5. 💻 Exploring new technologies
 <!--END_SECTION:activity-->
 
 </div>
@@ -369,7 +373,7 @@ BSc (Hons) IT
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Dynamic Fun Section (Updates on refresh) -->
+<!-- Fun Section -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="32"> FUN STATS
@@ -385,13 +389,13 @@ BSc (Hons) IT
 
 <br/>
 
-### 💭 Random Dev Quote (Changes Daily)
+### 💭 Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
 
 <br/>
 
-### 😂 Random Dev Meme (Changes on Refresh)
+### 😂 Random Dev Meme
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Meme"/>
 
@@ -424,7 +428,7 @@ BSc (Hons) IT
 
 ---
 
-<!-- Footer with Dynamic Timestamp -->
+<!-- Footer -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=150&section=footer&text=Thanks%20For%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70"/>
@@ -434,7 +438,7 @@ BSc (Hons) IT
 **Made with ❤️ by H.M. Muditha Pasan Maduranga**  
 *Data Science Student @ SLIIT | Colombo, Sri Lanka 🇱🇰*
 
-<sub>📅 Last Auto-Updated: <!--TIMESTAMP_START-->November 25, 2025 at 05:17 PM<!--TIMESTAMP_END--> | Always Learning 📚</sub>
+<sub>📅 Last Auto-Updated: <!--TIMESTAMP_START-->December 28, 2025 at 12:00 AM<!--TIMESTAMP_END--> | Always Learning 📚</sub>
 
 <br/>
 
