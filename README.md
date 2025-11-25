@@ -18,11 +18,6 @@
   <img src="https://img.shields.io/github/stars/muditha001?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Total Stars"/>
 </p>
 
-<!-- Current Time & Location - DYNAMIC -->
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Local%20Time&query=datetime&url=http%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FColombo&style=for-the-badge&logo=clock" alt="Local Time"/>
-</p>
-
 ---
 
 <img align="right" alt="Coding Animation" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -156,21 +151,10 @@
 
 ---
 
-## 📈 Recent Activity - DYNAMIC (Auto-Updates)
+## 📈 Recent GitHub Activity - DYNAMIC (Updates every 6 hours)
 
 <!--START_SECTION:activity-->
-<!-- This section will be automatically updated by GitHub Actions -->
 <!--END_SECTION:activity-->
-
-<div align="center">
-  
-<!-- Latest Blog Posts - DYNAMIC (if you have a blog) -->
-### 📝 Latest Blog Posts
-<!--START_SECTION:feed-->
-<!-- Feed workflow will update this -->
-<!--END_SECTION:feed-->
-
-</div>
 
 ---
 
@@ -311,17 +295,6 @@
 ### ⚡ Quick Stats - DYNAMIC
 
 <img src="https://github-readme-stats.vercel.app/api?username=muditha001&show_icons=true&count_private=true&hide=issues&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=⚡%20Quick%20GitHub%20Stats" width="450"/>
-
-</div>
-
----
-
-<!-- Current Spotify Playing - DYNAMIC (Optional) -->
-<div align="center">
-
-### 🎵 Currently Vibing To
-
-[![Spotify](https://novatorem-muditha001.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
 
 </div>
 
