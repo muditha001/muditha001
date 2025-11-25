@@ -108,23 +108,32 @@
 
 <div align="center">
   
-<!-- GitHub Stats Cards -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muditha001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=15&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<a href="https://github.com/muditha001">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muditha001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+</a>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muditha001&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E&border_radius=15" alt="GitHub Streak"/>
+<a href="https://github.com/muditha001">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muditha001&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF"/>
+</a>
 
 </div>
 
 <div align="center">
   
-<!-- Top Languages -->
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditha001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=15&langs_count=8" alt="Top Languages"/>
+<a href="https://github.com/muditha001">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditha001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+</a>
 
 </div>
 
-<!-- Activity Graph -->
+---
+
+## 📈 Contribution Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muditha001&custom_title=📅%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=7B2FF7&point=FF6D00&area=true&hide_border=true&area_color=00D9FF&title_color=00D9FF" width="98%" alt="Contribution Graph"/>
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muditha001&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=7B2FF7&point=FF6D00&area_color=00D9FF&title_color=00D9FF&area=true&hide_border=true)](https://github.com/muditha001)
+
 </div>
 
 ---
@@ -132,7 +141,9 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muditha001&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title_color=00D9FF&text_color=FFFFFF&icon_color=7B2FF7" alt="GitHub Trophies"/>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=muditha001&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&title_color=00D9FF&text_color=FFFFFF&icon_color=7B2FF7)](https://github.com/muditha001)
+
 </div>
 
 ---
@@ -153,6 +164,22 @@
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+---
+
+## 📊 Profile Summary
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muditha001&theme=tokyonight)](https://github.com/muditha001)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muditha001&theme=tokyonight)](https://github.com/muditha001)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muditha001&theme=tokyonight)](https://github.com/muditha001)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muditha001&theme=tokyonight)](https://github.com/muditha001)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muditha001&theme=tokyonight)](https://github.com/muditha001)
+
+</div>
 
 ---
 
@@ -225,30 +252,8 @@
 ## 💭 Inspirational Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_color=00D9FF" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 📊 Detailed Metrics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muditha001&theme=tokyonight" alt="Profile Details" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muditha001&theme=tokyonight" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muditha001&theme=tokyonight" alt="Most Commit Language" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muditha001&theme=tokyonight" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muditha001&theme=tokyonight" alt="Productive Time" />
+  
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_color=00D9FF)](https://github.com/muditha001)
 
 </div>
 
@@ -284,7 +289,7 @@
   
 ## 💡 Random Developer Wisdom
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=00D9FF" alt="Jokes Card" />
+[![](https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=00D9FF)](https://github.com/muditha001)
 
 </div>
 
