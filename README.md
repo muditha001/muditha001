@@ -104,12 +104,12 @@
 
 ---
 
-## 📊 GitHub Analytics - DYNAMIC (Auto-Updates)
+## 📊 GitHub Analytics
 
 <div align="center">
   
-<!-- Animated Stats Cards - UPDATES AUTOMATICALLY -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muditha001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=15&count_private=true&include_all_commits=true&custom_title=📈%20GitHub%20Statistics" alt="GitHub Stats"/>
+<!-- GitHub Stats Cards -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muditha001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=15&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muditha001&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E&border_radius=15" alt="GitHub Streak"/>
 
@@ -117,29 +117,27 @@
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditha001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=15&langs_count=10&custom_title=🔝%20Most%20Used%20Languages" alt="Top Languages"/>
-
-<!-- Pinned Repos - DYNAMIC -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=muditha001&repo=muditha001&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_radius=15" alt="Pinned Repo"/>
+<!-- Top Languages -->
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditha001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=15&langs_count=8" alt="Top Languages"/>
 
 </div>
 
-<!-- Activity Graph - DYNAMIC -->
+<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muditha001&custom_title=📅%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=7B2FF7&point=FF6D00&area=true&hide_border=true&area_color=00D9FF&title_color=00D9FF&radius=15" width="98%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muditha001&custom_title=📅%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=7B2FF7&point=FF6D00&area=true&hide_border=true&area_color=00D9FF&title_color=00D9FF" width="98%" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 🏆 Achievements & Trophies - DYNAMIC
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muditha001&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title_color=00D9FF&text_color=FFFFFF&icon_color=7B2FF7&bg_color=0D1117&rank=-?" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=muditha001&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title_color=00D9FF&text_color=FFFFFF&icon_color=7B2FF7" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 🐍 Contribution Snake - DYNAMIC (Updates every 12 hours)
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -151,7 +149,7 @@
 
 ---
 
-## 📈 Recent GitHub Activity - DYNAMIC (Updates every 6 hours)
+## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -224,31 +222,33 @@
 
 ---
 
-## 💭 Inspirational Quote - DYNAMIC (Changes on reload)
+## 💭 Inspirational Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_color=00D9FF&quote_color=00D9FF&author_color=8B949E" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_color=00D9FF" alt="Random Dev Quote"/>
 </div>
 
 ---
 
-## 📊 Detailed Metrics - DYNAMIC
+## 📊 Detailed Metrics
 
 <div align="center">
 
-<a href="https://github.com/muditha001">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muditha001&theme=tokyonight"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muditha001&theme=tokyonight" alt="Profile Details" />
 
-<a href="https://github.com/muditha001">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muditha001&theme=tokyonight"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muditha001&theme=tokyonight"/>
-</a>
+</div>
 
-<a href="https://github.com/muditha001">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muditha001&theme=tokyonight"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muditha001&theme=tokyonight"/>
-</a>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muditha001&theme=tokyonight" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muditha001&theme=tokyonight" alt="Most Commit Language" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muditha001&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muditha001&theme=tokyonight" alt="Productive Time" />
 
 </div>
 
@@ -282,19 +282,9 @@
 
 <div align="center">
   
-## 💡 Random Developer Wisdom - DYNAMIC (Changes on reload)
+## 💡 Random Developer Wisdom
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=00D9FF" alt="Jokes Card" />
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Quick Stats - DYNAMIC
-
-<img src="https://github-readme-stats.vercel.app/api?username=muditha001&show_icons=true&count_private=true&hide=issues&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=⚡%20Quick%20GitHub%20Stats" width="450"/>
 
 </div>
 
@@ -324,7 +314,6 @@ If you find my projects interesting or helpful, consider giving them a ⭐!
     <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
   </p>
   
-  <!-- Last Updated Badge - DYNAMIC -->
   <p>
     <img src="https://img.shields.io/github/last-commit/muditha001/muditha001?label=Last%20Updated&style=flat-square&color=blue" alt="Last Updated"/>
   </p>
