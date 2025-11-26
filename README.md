@@ -104,6 +104,13 @@
 
 ---
 
+## 🛠️ Recent Activity
+
+<!--RECENT_ACTIVITY:Start-->
+<!--RECENT_ACTIVITY:End-->
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
