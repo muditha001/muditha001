@@ -132,6 +132,20 @@
 
 ---
 
+## GitHub Contributions calendar
+
+<div align="center">
+  <table>
+    <tr>
+     <div align="center">
+  <img src="https://raw.githubusercontent.com/muditha001/muditha001/main/iso-calendar.svg" alt="Clean 3D Graph" width="100%">
+</div>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -264,35 +278,4 @@ If you find my projects interesting or helpful, consider giving them a ⭐!
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-  <h3>My GitHub Contributions</h3>
-  <table>
-    <tr>
-      <td width="70%">
-        <img src="https://raw.githubusercontent.com/muditha001/muditha001/main/iso-calendar.svg" alt="Clean 3D Graph" width="100%">
-      </td>
-      
-      <td width="30%">
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=muditha001&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" width="100%">
-      </td>
-    </tr>
-  </table>
-</div>
 
