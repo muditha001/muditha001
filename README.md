@@ -106,8 +106,14 @@
 
 ## 🛠️ Recent Activity
 
-<!--RECENT_ACTIVITY:Start-->
-<!--RECENT_ACTIVITY:End-->
+<p align="center">
+  <a href="https://github.com/GovindSingh9447">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=muditha001&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/GovindSingh9447">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditha001&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
 
 ---
 
@@ -115,9 +121,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muditha001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=muditha001&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E" />
+[![](https://github-readme-stats.vercel.app/api?username=muditha001&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=muditha001&theme=material-palenight)](https://github.com/Elanza-48)
 
 </div>
 
@@ -141,10 +146,10 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=muditha001&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&title_color=00D9FF&text_color=FFFFFF&icon_color=7B2FF7)
-
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=muditha001&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
 </div>
 
 ---
