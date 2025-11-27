@@ -1,24 +1,27 @@
-name: GitHub-Profile-3D-Contrib
+name: Clean Isometric Graph
 
 on:
-  # schedule:
-  #   - cron: "0 18 * * *"
-  # workflow_dispatch:
+  # Runs at 00:00 every day
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
+      - name: Generate Iso Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token (automatically provided)
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # This filename is where the image will be saved
+          filename: iso-calendar.svg
+          
+          # "base: header" keeps it minimal. "base: """ removes everything but the plugin.
+          base: ""
+          
+          # Enable ONLY the isometric calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
