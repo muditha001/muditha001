@@ -1,9 +1,10 @@
 name: Clean Isometric Graph
 
 on:
-  # Runs at 00:00 every day
+  # 1. Updates automatically every day at midnight
   schedule:
     - cron: "0 0 * * *"
+  # 2. Allows you to run it manually
   workflow_dispatch:
 
 jobs:
@@ -13,15 +14,16 @@ jobs:
       - name: Generate Iso Calendar
         uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token (automatically provided)
           token: ${{ secrets.GITHUB_TOKEN }}
-          
-          # This filename is where the image will be saved
           filename: iso-calendar.svg
           
-          # "base: header" keeps it minimal. "base: """ removes everything but the plugin.
+          # This removes the user header, keeping ONLY the graph
           base: ""
           
-          # Enable ONLY the isometric calendar
+          # This makes the colors Dark Mode (Black/Grey)
+          config_theme: dark
+          config_timezone: Asia/Colombo
+          
+          # Enable the 3D Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
