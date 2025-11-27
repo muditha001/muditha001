@@ -283,7 +283,6 @@ If you find my projects interesting or helpful, consider giving them a ⭐!
 
 <div align="center">
   <h3>My GitHub Contributions</h3>
-  
   <table>
     <tr>
       <td width="70%">
