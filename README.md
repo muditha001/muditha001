@@ -102,30 +102,13 @@
 
 </div>
 
----
-
-## 🛠️ Recent Activity
-
-<p align="center">
-  <a href="https://github.com/GovindSingh9447">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=muditha001&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/GovindSingh9447">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditha001&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=muditha001&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=muditha001&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muditha001&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muditha001&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muditha001&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff)
 
 ---
 
@@ -266,21 +249,87 @@ If you find my projects interesting or helpful, consider giving them a ⭐!
 </div>
 
 ---
+<div align="center">
+ <p>
+    <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/From-Sri%20Lanka%20🇱🇰-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+    <img src="https://img.shields.io/github/last-commit/muditha001/muditha001?label=Last%20Updated&style=flat-square&color=blue" alt="Last Updated"/>
+  </p>
+</div>
+
+
 
 <!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  # Hi there! 👋 I'm Muditha
+
+![GitHub Contribution Stats](https://github-readme-activity-graph.vercel.app/graph?username=muditha001&theme=github-dark&hide_border=true&area=true)
+
+## 📊 GitHub Statistics
+
+<div align="center">
   
-  <p>
-    <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/From-Sri%20Lanka%20🇱🇰-green?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
-  </p>
-  
-  <p>
-    <img src="https://img.shields.io/github/last-commit/muditha001/muditha001?label=Last%20Updated&style=flat-square&color=blue" alt="Last Updated"/>
-  </p>
-  
-  <p><i>⭐ From <a href="https://github.com/muditha001">muditha001</a> - Let's turn data into impact! 🚀</i></p>
-  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muditha001&theme=dark&hide_border=true)
+
+![3D Contribution Graph](https://ghchart.rshah.org/muditha001)
+
 </div>
+
+## 🔥 Contribution Stats
+
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=muditha001&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muditha001&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muditha001&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muditha001&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muditha001&theme=github_dark)
+
+</div>
+
+## 📈 Isometric Contribution Calendar
+
+<div align="center">
+  
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+</div>
+
+---
+
+<div align="center">
+  
+[![Profile Views](https://komarev. com/ghpvc/?username=muditha001&color=blue&style=flat-square)](https://github.com/muditha001)
+
+</div>
+  
+ 
