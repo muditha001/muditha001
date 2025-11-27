@@ -327,12 +327,29 @@ If you find my projects interesting or helpful, consider giving them a ⭐!
 ---
 
 <div align="center">
-  
-[![Profile Views](https://komarev. com/ghpvc/?username=muditha001&color=blue&style=flat-square)](https://github.com/muditha001)
+
+  <h3 align="center">My GitHub Stats</h3>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muditha001&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/muditha001/muditha001/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" width="85%"/>
 
 </div>
-  
- 
-<h3 align="left">My GitHub Contributions</h3>
 
-![3D Contributions](profile-3d-contrib/profile-night-green.svg)
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+![My 3D Graph](https://raw.githubusercontent.com/muditha001/muditha001/main/profile-3d-contrib/profile-night-green.svg)
