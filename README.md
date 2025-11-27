@@ -330,9 +330,7 @@ If you find my projects interesting or helpful, consider giving them a ⭐!
 
   <h3 align="center">My GitHub Stats</h3>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muditha001&theme=dark&hide_border=true" alt="GitHub Streak" />
 
-  <br/><br/>
 
   <img src="https://raw.githubusercontent.com/muditha001/muditha001/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" width="85%"/>
 
@@ -340,14 +338,7 @@ If you find my projects interesting or helpful, consider giving them a ⭐!
 
 
 
-
-
-
-
-
 ---
-
-
 
 
 
