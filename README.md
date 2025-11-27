@@ -289,6 +289,27 @@ If you find my projects interesting or helpful, consider giving them a ⭐!
 
 
 
+
+## 📊 GitHub Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp. com/? user=it24102732&theme=dark)](https://git.io/streak-stats)
+
+## 📊 GitHub Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/? user=it24102732&theme=tokyonight)](https://git. io/streak-stats)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   # Hi there! 👋 I'm Muditha
 
 ![GitHub Contribution Stats](https://github-readme-activity-graph.vercel.app/graph?username=muditha001&theme=github-dark&hide_border=true&area=true)
@@ -341,6 +362,37 @@ If you find my projects interesting or helpful, consider giving them a ⭐!
 ---
 
 
-
+![My 3D Graph](https://raw.githubusercontent.com/muditha001/muditha001/main/profile-3d-contrib/profile-night-green.svg)
 
 ![My 3D Graph](https://raw.githubusercontent.com/muditha001/muditha001/main/profile-3d-contrib/profile-night-green.svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+  <h3>My GitHub Contributions</h3>
+  <table>
+    <tr>
+      <td width="70%">
+        <img src="https://raw.githubusercontent.com/muditha001/muditha001/main/profile-3d-contrib/profile-night-green.svg" alt="3D Graph" width="100%">
+      </td>
+      <td width="30%">
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=muditha001&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" width="100%">
+      </td>
+    </tr>
+  </table>
+</div>
