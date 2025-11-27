@@ -121,14 +121,9 @@
 
 <div align="center">
 
-[![](https://github-readme-stats.vercel.app/api?username=muditha001&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=muditha001&theme=material-palenight)](https://github.com/Elanza-48)
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muditha001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+![](https://github-readme-stats.vercel.app/api?username=muditha001&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=muditha001&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muditha001&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
 
